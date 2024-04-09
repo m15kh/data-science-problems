@@ -1,0 +1,7 @@
+137
+44.93
+preservation products,kitchen utensil,baby cosmetics,bags
+0ZRF32AJ06BC,KACGV5OJXMJW,0P1TPIH74E79,ED8WY0DE27XG,NQQZGF4K1FE0
+Wednesday
+vegetables,milk,fruit,whole,other
+("domestic")->("eggs")|("citrus")->("fruit") 
