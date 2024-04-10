@@ -1,7 +1,7 @@
 137
 44.93
 preservation products,kitchen utensil,baby cosmetics,bags
-0ZRF32AJ06BC,KACGV5OJXMJW,0P1TPIH74E79,ED8WY0DE27XG,NQQZGF4K1FE0
+QBUS9NZY39BE,0ZRF32AJ06BC,M722MPITBY07,M2DT2Z00NQCH,E7FD9BU4OK0F,WR2HDQL7MDVM
 Wednesday
-vegetables,milk,fruit,whole,other
-("domestic")->("eggs")|("citrus")->("fruit") 
+whole milk,other vegetables,rolls/buns,soda,yogurt
+("yogurt")->("whole milk")|("rolls/buns")->("whole milk") 
